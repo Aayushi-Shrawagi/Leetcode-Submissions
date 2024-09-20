@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
