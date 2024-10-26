@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
