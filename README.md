@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Sliding Window
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
