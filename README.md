@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
