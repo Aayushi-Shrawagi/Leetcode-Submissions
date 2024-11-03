@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
