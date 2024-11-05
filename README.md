@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
