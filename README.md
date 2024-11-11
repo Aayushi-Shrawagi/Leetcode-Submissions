@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Linked List
 |  |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
