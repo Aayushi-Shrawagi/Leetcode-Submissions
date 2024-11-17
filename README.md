@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [0983-validate-stack-sequences](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->
