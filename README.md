@@ -132,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
