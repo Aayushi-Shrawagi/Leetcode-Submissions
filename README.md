@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 ## Memoization
 |  |
 | ------- |
