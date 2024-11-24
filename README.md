@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
