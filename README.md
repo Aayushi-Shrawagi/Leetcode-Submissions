@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 ## Ordered Set
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
