@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
