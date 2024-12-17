@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union Find
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -173,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
