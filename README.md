@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0967-minimum-falling-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0983-validate-stack-sequences) |
 ## Matrix
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Linked List
 |  |
 | ------- |
@@ -135,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Stack
 |  |
 | ------- |
@@ -178,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
