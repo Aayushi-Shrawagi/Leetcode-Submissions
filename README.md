@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aayushi-Shrawagi/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
